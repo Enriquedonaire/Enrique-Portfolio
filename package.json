@@ -2,12 +2,13 @@
   "name": "NEXT-SIMPLE-PORTFOLIO",
   "version": "1.0.0",
   "description": "",
+  "homepage": "http://Enriquedonaire.github.io/Enrique-Portfolio",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "next"
   },
   "keywords": [],
   "author": "",
