@@ -39,26 +39,26 @@ export const experiences = [
 
     {
         title: 'Full-Stack Developer at Ironhack',
-        description: "There are many variations of passages of Lorem Ipsum available, ",
+        description: "In the last 3 months I have focused on absorbing technical knowledge about 10+ programming languages, motivated by the continuous exchange of experiences with my 20+ colleagues and the environment created by teamwork and passion for the technologies of the future.",
         from: 2021,
         to: 2021,
     },
 
     {
         title: 'Full-Stack Developer Freelance',
-        description: "There are many variations of passages of Lorem Ipsum available, ",
+        description: "Bulding Fully responsive App by using JavaScripts and Severals framework as React, Next, Angular, Vue, etc. Trying",
         from: 2019,
         to: 2020
     },
     {
         title: 'Digital Cinema at Materia Prisma Productions',
-        description: "There are many variations of passages of Lorem Ipsum available, ",
-        from: 2009,
-        to: 2019
+        description: "Produced, filmed and directed more than 3 short film and several advertising reels for different clients.  In charge of coordinating the work of groups of 5 to 10 people with different specific tasks, drawn storyboards with detailed instructions to facilitate the shooting process, coordinated teamwork for the digital post-production of recorded material.",
+        from: 2019,
+        to: 2020,
     },
     {
         title: 'Doctor-Ophthalmologist at COD Diagnosis Ocular Clinical',
-        description: "There are many variations of passages of Lorem Ipsum available, ",
+        description: "Provided diagnosis and medical treatment for more than 4 years in more than 5 renowned clinics. Coordinate the nursing staff in external assistance. Medical assistance of patients in disadvantaged geographic areas for more than 2 years.",
         from: 2009,
         to: 2019,
 
@@ -69,38 +69,38 @@ export const experiences = [
 export const projects = [
     {
         name: 'Goku in the Cloud',
-        description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words",
+        description: " First App created from scratch in 3 days, deployed in Github, online Game Inspired by Dragon Ball Z cartoon. Mainly based on canvas and DOM manipulation with Javascript, I hope you like it and play a bit !!",
         image: 'GokuGame.jpg',
         website: "https://enriquedonaire.github.io/GOKU-IN-THE-CLOUD-GAME"
 
     },
     {
-        name: 'Funnyfy',
-        description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words",
+        name: 'Funnyfy ',
+        description: "App developed with Javascript, Node, express and Handlebars Engine, deploy on Heroku. We help you escape from the daily routine, disconnect from all the problems and release all stress. Do you enjoy the classic knock-knock jokes? ",
         image: 'funnyfyApp.jpg',
         website: "https://funnyfy.herokuapp.com"
     },
     {
         name: 'Recyclup',
-        description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words",
+        description: "Fully responsive app, built with Reactjs, Leaflet API, and deployed on Heroku, Recyclup is the first app that you can give away or recycle your old stuff and maybe get an unexpected gift. Just look on the map for those things that others don't want but that you love",
         image: 'bg.jpg',
         website: "https://recyclup.herokuapp.com/"
     },
     {
         name: 'Covid-19 Tracker',
-        description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words",
+        description: "In development.",
         image: 'portfolio4.png',
         website: ""
     },
     {
         name: 'Moebious-Home',
-        description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words",
+        description: "Concept for Future project",
         image: 'portfolio5.jpeg',
         website: ""
     },
     {
         name: 'Mood-Song',
-        description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words",
+        description: "In development and final production",
         image: 'portfolio6.jpeg',
         website: ""
     },
@@ -111,23 +111,23 @@ export const posts = [
     {
         title: "React",
         content:
-            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+            "ReactJS is a free and open-source front-end JavaScript library for building user interfaces or UI components. React can be used as a base in the development of single-page or mobile applications.",
         imageURL:
-            "https://www.wallpapertip.com/wmimgs/10-105665_earth-hologram-digital-globe-world-holographic-image-hologram.jpg",
+            "https://www.resourcifi.com/blog/wp-content/uploads/2020/09/Why-Use-React-Native-For-Your-Business-in-2020.jpg",
     },
     {
         title: "Angular",
         content:
-            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+            " AngularJS, it is an MVC framework (Model View Controller), developed by Google for Front End Web Development that allows us to create SPA (Single-Page Applications) applications without getting messy.",
         imageURL:
-            "https://www.elimparcial.com/__export/1610503451135/sites/elimparcial/img/2021/01/12/disenxo-de-hologramas.jpg_554688468.jpg",
+            "https://wallpaperaccess.com/full/3910951.png",
     },
     {
         title: "Nextjs",
         content:
-            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+            "Nextjs allows us, by installing a single dependency, server render and many other techniques such as HMR or code separation and ... it even makes it easier to deploy our applications! !",
         imageURL:
-            "https://image.freepik.com/vector-gratis/fondo-concepto-tecnologia-futura-circuito-cibernetico-ojo-verde-azul_42077-3424.jpg",
+            "https://miro.medium.com/max/1400/1*8WaeVrSwo63jWu4yZE4hpQ.png",
     },
 ];
 

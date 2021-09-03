@@ -10,15 +10,17 @@ const Index = () => (
         {/* header card */}
         <header className="row">
             <div className="col-md-12">
-                <div className="card card-body bg-secondary text-light">
+                <div className="card card-body bg-secondary text-dark">
                     <div className="row">
                         <div className="col-md-4">
-                            <img src="FotoPerfil.jpg" alt="" className="img-fluid" />
+                            <img src="fotoEnrique.png" alt="" className="img-fluid" />
                         </div>
                         <div className="col-md-8">
                             <h1>Enrique Donaire</h1>
                             <h3>Full-Stack Developer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, eligendi. Impedit officia maxime reiciendis magni corporis soluta ab optio inventore sint, mollitia minima quasi, ad at ipsam distinctio in similique.</p>
+                            <p>Hi, Nice to meet you! 👋 <br />
+                                <br />
+                                I'm a Full-stack Developer with background in Digital Cinema and Audio-Visual editing. My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user. My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.</p>
                             <a href="https://www.linkedin.com/in/enrique-donaire/" target="_blank" >Hire Me</a>
                         </div>
                     </div>

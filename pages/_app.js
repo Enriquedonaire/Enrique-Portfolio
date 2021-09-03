@@ -1,4 +1,4 @@
-import 'bootswatch/dist/cyborg/bootstrap.min.css';
+import 'bootswatch/dist/morph/bootstrap.min.css';
 import '../global.css';
 
 

@@ -2,7 +2,10 @@ body,
 html, body > div:first-child,
 div#__next,
 div#__next > div{
-    height: 100%;
+    height: 45%;
+}
+body{
+    background-color: #bfbdb8;
 }
 
 .overflow {
