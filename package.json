@@ -1,0 +1,24 @@
+{
+  "name": "NEXT-SIMPLE-PORTFOLIO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootswatch": "^5.1.0",
+    "classnames": "^2.3.1",
+    "next": "^11.1.2",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
