@@ -10,11 +10,9 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "node index.js",
-    "build": "webpack",
+    "build": "next build",
     "dev": "next"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
