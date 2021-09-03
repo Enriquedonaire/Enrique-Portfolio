@@ -13,7 +13,7 @@ const Post = () => {
         <Layout title={router.query.title} footer={false}>
             <div className="text-center">
                 <img
-                    src={currentPost.imageURL}
+                    src={currentPost.image}
                     alt=""
                     style={{ width: "50%" }}
                     className="img-fluid"
