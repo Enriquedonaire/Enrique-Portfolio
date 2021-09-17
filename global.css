@@ -5,7 +5,7 @@ div#__next > div{
     height: 45%;
 }
 body{
-    background-color: #bfbdb8;
+    background-color: #414040;
 }
 
 .overflow {
@@ -23,7 +23,7 @@ body{
 }
 
 #nprogress .bar {
-    background: #28a88f !important;
+    background: #31cfb0 !important;
 }
 
 #nprogress .spinner-icon {
