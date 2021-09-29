@@ -8,6 +8,7 @@
     "npm": "6.14.11"
   },
   "scripts": {
+    "start": "next",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "next build",
