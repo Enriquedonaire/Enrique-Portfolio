@@ -8,12 +8,14 @@ const Post = () => {
     const currentPost = posts.filter(
         (post) => post.title === router.query.title
     )[0];
-
+        if (!currentPost){
+            return <p>Loading...</p>
+        }
     return (
         <Layout title={router.query.title} footer={false}>
             <div className="text-center">
                 <img
-                    src={currentPost.imageURL}
+                    src={currentPost.image}
                     alt=""
                     style={{ width: "50%" }}
                     className="img-fluid"

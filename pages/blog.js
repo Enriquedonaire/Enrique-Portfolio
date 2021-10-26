@@ -7,13 +7,13 @@ const PostCard = ({ post }) => (
     <div className="col-md-4">
         <div className="card">
             <div className="overflow">
-                <img src={post.imageURL} alt="" className="card-img-top" />
+                <img src={post.image} alt="" className="card-img-top" />
             </div>
             <div className="card-body">
                 <h1>{post.title}</h1>
                 <p>{post.content}</p>
-                <Link href={`/post?title=${post.title}`}>
-                    <button className="btn btn-light">Read</button>
+                <Link href={`/post?title=${post.title}`} target="_blank">
+                    <button  className="btn btn-dark">Read</button>
                 </Link>
             </div>
         </div>

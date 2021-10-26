@@ -65,7 +65,7 @@ const Index = () => (
                                 ))
                             }
                         </ul>
-                        <Link href="https://donaireq2.wixsite.com/website" >
+                        <Link href="https://donaireq2.wixsite.com/website" target="_blank" >
                             <a className="btn btn-dark">
                                 Know More
                             </a>
