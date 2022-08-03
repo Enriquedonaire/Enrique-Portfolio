@@ -112,22 +112,21 @@ export const posts = [
         title: "React",
         content:
             "ReactJS is a free and open-source front-end JavaScript library for building user interfaces or UI components. React can be used as a base in the development of single-page or mobile applications.",
-        imageURL:
-            "https://www.resourcifi.com/blog/wp-content/uploads/2020/09/Why-Use-React-Native-For-Your-Business-in-2020.jpg",
+        image:'ReactPic.png',
+            
     },
     {
         title: "Angular",
         content:
             " AngularJS, it is an MVC framework (Model View Controller), developed by Google for Front End Web Development that allows us to create SPA (Single-Page Applications) applications without getting messy.",
-        imageURL:
-            "https://wallpaperaccess.com/full/3910951.png",
+        image:'AngularPic.png',
+
     },
     {
         title: "Nextjs",
         content:
             "Nextjs allows us, by installing a single dependency, server render and many other techniques such as HMR or code separation and ... it even makes it easier to deploy our applications! !",
-        imageURL:
-            "https://miro.medium.com/max/1400/1*8WaeVrSwo63jWu4yZE4hpQ.png",
+        image: 'NextjsPic.png'
     },
 ];
 
