@@ -2,6 +2,9 @@
   "name": "NEXT-SIMPLE-PORTFOLIO",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "18.x"
+  },
   "homepage": "http://Enriquedonaire.github.io/Enrique-Portfolio",
   "main": "index.js",
   "scripts": {
